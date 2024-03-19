@@ -98,7 +98,7 @@ ul li a {
   }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 450px) {
   nav {
     flex-direction: column;
     width: 100%;
