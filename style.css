@@ -156,7 +156,7 @@ ul li a {
     }
   }
   
-  @media screen and (max-width: 350px) {
+  @media screen and (max-width: 450px) {
   
       .banner {
           width: 110%;
@@ -221,7 +221,7 @@ ul li a {
 
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 450px) {
 
 .gallery-title {
     font-size: 1rem;
